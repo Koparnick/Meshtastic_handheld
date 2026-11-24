@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QDKBKVWG
 
 [Document5]
-DocumentPath=POWER.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QHMABTKK
-
-[Document6]
 DocumentPath=Meshtastic.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCPMYWCF
 
-[Document7]
+[Document6]
 DocumentPath=Meshtastic.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,8 +151,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
-DocumentPath=BMS.SchDoc
+[Document7]
+DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -183,10 +166,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JOTUMTYE
+DocumentUniqueId=CRLVEIHP
 
-[Document9]
-DocumentPath=CHARGING.SchDoc
+[Document8]
+DocumentPath=Sheet4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
